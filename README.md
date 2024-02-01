@@ -1,4 +1,4 @@
-[![MasterHead](https://assets-global.website-files.com/63498f3b23c754f0ded5ac2b/6439b36b08c4823d51bf107b_What%20is%20Data%20Analytics.jpg)
+[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/008/103/688/original/data-analysis-text-animation-background-v1-1-free-video.jpg)
 <h1 align="center">Hi 👋, I'm Nimisha</h1>
 <h3 align="center">"Decoding Data: Navigating Insights and Trends as a Data Analyst"</h3>
 <img align="right" alt="Data Analyst" width="400" src="https://media.istockphoto.com/id/1325034866/vector/data-analysis-vector-illustration-with-young-woman-sitting-in-front-of-big-computer-monitor.jpg?s=612x612&w=0&k=20&c=n5-pe8pgPfPMcRpOL8bpy6mcx-LHrxLs2sYX1vJ9smM="
