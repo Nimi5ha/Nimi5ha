@@ -16,17 +16,22 @@
  <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,SQL,powerBI,excel,tableau,jupyter Notebook,git,github">
+  <img src="https://cdn.simpleicons.org/pandas" height="32" />
+  <img src="https://cdn.simpleicons.org/numpy" height="32" />
+  <img src="https://cdn.simpleicons.org/jupyter" height="32" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=git,github" height="32" alt="Git and GitHub" />
+</p>
 
  </p>
 
  <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codebyUtkarsh&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codebyUtkarsh&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyUtkarsh&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Nimi5ha&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nimi5ha&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimi5ha&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 💰 You can help me by Donating
