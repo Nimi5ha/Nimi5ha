@@ -21,7 +21,7 @@
   <img src="https://cdn.simpleicons.org/jupyter" height="32" />
   <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=git,github,pycharm" height="32" alt="Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode" height="32" alt="Git and GitHub" />
 </p>
 
  </p>
