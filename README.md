@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/nimisha-maheshwari-723816257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 
-- 🖥️ contact me via **[Email ID](m.nimisha44@gmail.com)**
+- 🖥️ contact me via **[Email ID](mailto:m.nimisha44@gmail.com)**
 
  <h3 align="left">Languages and Tools:</h3>
 
