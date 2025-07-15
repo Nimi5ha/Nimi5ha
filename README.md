@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimisha Maheshwari</h1>
 
 
-- 🔭 I’m a passionate Data Analyst from INDIA
+- 🔭 I’m a passionate Data Analyst
 
 - 🌱 I’m currently exploring **Data Analytics, Data Visualization & Business Intelligence**
 
